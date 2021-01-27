@@ -14,9 +14,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:titleTextColor="@color/white"
         app:navigationIcon="?attr/homeAsUpIndicator"
-        />
+        app:titleTextColor="@color/white" />
 
     <Button
         android:id="@+id/budget_accounts"
@@ -30,10 +29,10 @@
         app:layout_constraintVertical_chainStyle="packed" />
 
     <Button
-        android:layout_marginTop="20dp"
         android:id="@+id/payee_transactions"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
         android:text="@string/payee_transactions"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
