@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0091D0</color>
+    <color name="colorPrimaryDark">#192637</color>
+    <color name="colorPrimarylight">#F2192637</color>
+    <color name="colorAccent">#0091D0</color>
+    <color name="colorObject">#00C7FE</color>
+    <color name="babyblue">#7FCEEE</color>
+    <color name="colorYellow">#ffbf00</color>
+    <color name="btnLogIn">#454545</color>
+    <color name="rippleEfectColor">#fff</color>
+    <color name="colorButton">#6F0054A6</color>
+    <color name="offer">#e3ff3b30</color>
+    <color name="errorColor">#E35457</color>
+    <color name="verifiedColor">#01A299</color>
+    <color name="notVerifiedColor">#DD7801</color>
+    <color name="home_slider_txt">#4ABDFF</color>
+    <color name="default_border">#998E8F93</color>
+    <color name="textGreen">#2B984E</color>
+    <color name="textOrange">#DD7801</color>
+    <color name="textRed">#D01313</color>
+    <color name="textGray">#99000000</color>
+    <color name="textBlack">#DE000000</color>
+    <color name="textBlue">#0091D0</color>
+
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+
+    <color name="btnSignIn">#4a86ff</color>
+    <color name="btnDeclinePickup">#ba0000</color>
+
+    <color name="cornflower_blue">#D23E939C</color>
+    <color name="cornflower_blue_dark">#303F9F</color>
+    <color name="cornflower_blue_darkest">#2d3a93</color>
+    <color name="gray">#61000000</color>
+    <color name="gray_light">#e8e8e8</color>
+    <color name="gray_transparent">#a6efefef</color>
+    <color name="gray_dark">#858585</color>
+    <color name="gray_dark_transparent">#ae858585</color>
+    <color name="gray_darkest">#ae282828</color>
+    <color name="black">#000000</color>
+    <color name="black_10">#19000000</color>
+    <color name="ivory">#f8efe6</color>
+    <color name="ivory_dark">#f7e8d9</color>
+    <color name="green">#38be55</color>
+    <color name="green_dark">#2da346</color>
+    <color name="red">#e94f4f</color>
+    <color name="brown">#4e342e</color>
+    <color name="arrow_transparent">#f2f2f2</color>
+
+    <color name="transparentWhite">#77ffffff</color>
+    <color name="transparentWhiteMed">#aaffffff</color>
+    <color name="transparentWhiteMedDark">#bbffffff</color>
+    <color name="transparentWhiteDark">#ccffffff</color>
+
+    <color name="textHeavy">#3d3d3d</color>
+    <color name="textMedHeavy">#656565</color>
+    <color name="textMedium">#7c7c7c</color>
+    <color name="textMedLight">#848484</color>
+    <color name="textLight">#9e9e9e</color>
+    <color name="greyish">#B9B9B9</color>
+    <color name="background_android">#eeeeee</color>
+    <color name="rippleColor">#757575</color>
+
+    <color name="swipe_color_1">#4CAF50</color>
+    <color name="swipe_color_2">#03A9F4</color>
+    <color name="swipe_color_3">#FFC107</color>
+    <color name="swipe_color_4">#FF5722</color>
+
+    <color name="color_section">#4CAF50</color>
+    <color name="color_author">#8E24AA</color>
+
+    <color name="white">#ffffff</color>
+    <color name="lightbabyblue">#E0F4FB</color>
+    <color name="textColorActive">#0092D0</color>
+    <color name="textColorNotActive">#99000000</color>
+    <color name="dividor">#14212121</color>
+    <color name="violet">#9c27b0</color>
+    <color name="light_green">#8bc34a</color>
+
+    <color name="gradient_center_color">#880d0d0f</color>
+    <color name="gradient_end_color">#885d5d5e</color>
+    <color name="gradient_start_color">#880f0f10</color>
+
+    <color name="color_trail_text">#102027</color>
+    <color name="color_date_text">#a4a4a4</color>
+
+    <color name="color_app_bar_text">#005689</color>
+    <color name="color_tab_text">#a7c0cd</color>
+
+    <color name="nav_bar_start">#7db1ec</color>
+    <color name="nav_bar_end">#002e5b</color>
+
+    <color name="search_dark_tint">#736861</color>
+    <color name="grey">#DADADA</color>
+    <color name="light_grey">#BABABA</color>
+    <color name="rating_border_color">#99000000</color>
+    <color name="chat_message_time_color">#8A93A1</color>
+
+</resources>

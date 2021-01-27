@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Money</string>
+    <string name="your_toke_expired_login_again">your token expired login again</string>
+    <string name="some_error">Something went wrong please try again</string>
+    <string name="error_no_internet_connection">Please Connect to Internet</string>
+    <string name="internal_storage" translatable="false">Internal storage</string>
+    <string name="budgets_list">Budgets List</string>
+    <string name="id">ID :</string>
+    <string name="name">Name :</string>
+    <string name="name_">Name</string>
+    <string name="last_modified_on">Last Modified On :</string>
+    <string name="first_month">First Month :</string>
+    <string name="last_month">Last Month :</string>
+    <string name="date_format">Date Format :</string>
+    <string name="iso_code">Iso Code :</string>
+    <string name="currency_symbol">Currency Symbol :</string>
+    <string name="decimal_digits">Decimal Digits :</string>
+    <string name="example_format">Example Format :</string>
+    <string name="no_data_found">" No Data Found !"</string>
+    <string name="please_check_network_connection">please check network connection!</string>
+    <string name="retry">retry</string>
+    <string name="budgets_account">Budget Account List </string>
+    <string name="type">Type :</string>
+    <string name="on_budget">On Budget :</string>
+    <string name="closed">Closed :</string>
+    <string name="balance">"Balance : "</string>
+    <string name="cleared_balance">Cleared Balance :</string>
+    <string name="uncleared_balance">Uncleared Balance :</string>
+    <string name="transfer_payee_id">Transfer Payee Id :</string>
+    <string name="deleted">Deleted :</string>
+    <string name="create_account">Create New Account :</string>
+    <string name="save">save</string>
+    <string name="type_">Select Type</string>
+    <string name="balance_">Balance</string>
+    <string name="please_add_account_name">please add account name</string>
+    <string name="please_add_account_type">please select type</string>
+    <string name="please_add_balance">please add number</string>
+    <string name="payees_transaction">Payee Transaction</string>
+    <string name="payee_transactions">Payee Transactions</string>
+    <string name="budget_accounts">Budget Accounts</string>
+    <string name="amount">Amount :</string>
+    <string name="cleard">Cleard :</string>
+    <string name="account_id">Account Id :</string>
+    <string name="account_name">Account Name :</string>
+    <string name="payee_id">Payee Id :</string>
+    <string name="payee_name">Payee Name :</string>
+    <string name="category_id">Category Id :</string>
+    <string name="category_name">Category Name</string>
+    <string-array name="types">
+        <item>checking</item>
+        <item>savings</item>
+        <item>creditCard</item>
+        <item>cash</item>
+        <item>lineOfCredit</item>
+        <item>otherAsset</item>
+        <item>otherLiability</item>
+        <item>mortgage</item>
+        <item>carLoan</item>
+        <item>studentLoan</item>
+        <item>personalLoan</item>
+        <item>consumerLoan</item>
+        <item>medicalDebt</item>
+        <item>otherDebt</item>
+    </string-array>
+</resources>
